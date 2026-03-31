@@ -8,7 +8,7 @@ export function HowIWorkSection() {
           How I Work
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-xl mx-auto">
-          My approach to building products that actually make a difference.
+          My approach to.. building products that actually make a difference.
         </p>
         <div className="grid sm:grid-cols-3 gap-8">
           {howIWork.map((w, i) => (
